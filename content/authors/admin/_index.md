@@ -1,6 +1,6 @@
 ---
 # Display name
-name: André Sbrocco Figueiredo
+name: André Sbrocco Figueiredo (IN CONSTRUCTION)
 
 # Username (this should match the folder name)
 authors:
@@ -15,15 +15,16 @@ role:  Mechanical Engineer
 # Organizations/Affiliations
 organizations:
 - name: University of Campinas
-  url: ""
+  url: "https://www.unicamp.br/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests range from Music and Art to Engineering and Artificial Intelligence.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Music Information Retreival and Visualization
+- Multimodal Interfaces for Art Performances
+- Vechicle Dynamics
+- Apply Machine Learning Techniques to all above
 
 education:
   courses:
@@ -51,9 +52,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/andresbrocco
-- icon: gitlab
-  icon_pack: fab
-  link: https://gitlab.com/andresbrocco
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -65,11 +63,13 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+(IN CONSTRUCTION)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+André Sbrocco Figueiredo is a recently graduated Mechanical Engineer, looking for research oportunities to embrace. His interests range from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Machine Learning Techniques. He currently contributes voluntarily at the Interdisciplinary Nucleus of Sound Studies (NICS) at the University of Campinas, developing tools to enable researches on new multimodal interfaces.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. Alt
