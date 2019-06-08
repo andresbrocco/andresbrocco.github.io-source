@@ -18,7 +18,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "Portuguese: Native. English: 80%. Italian: 10%."
+  description = "Portuguese: Native. English: Advanced. Italian: Basic."
 
 [[feature]]
   icon = "code"
