@@ -15,28 +15,33 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "30%"
-  
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "50%"
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Portuguese: Native. English: 80%. Italian: 10%."
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Statistics"
-  description = "100%"  
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming Languages"
+  description = "Python, Java, Matlab/Simulink, C/C++, Pure Data, Processing"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "microchip"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Electronic"
+  description = "Arduino, Raspberry Pi"
+  
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "CAD - Softwares"
+  description = "PTC Creo Parametric, SolidWorks"
+  
+[[feature]]
+  icon = "drafting-compass"
+  icon_pack = "fas"
+  name = "CAE - Softwares"
+  description = "PTC Creo Simulate, Ansys Workbench, Altair Inspire"
 
 +++
-
