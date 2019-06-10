@@ -15,7 +15,7 @@ font = "default"
 description = "Resume of André Sbrocco Figueiredo"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "generic_avatar.jpg" ## don't know where this image goes...
+sharing_image = "generic_avatar.jpg" 
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
