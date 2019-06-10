@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Campinas, SP, Brazil"
   date_start = "2017-03-01"
   date_end = "2018-03-01"
-  description = """As a former member, I supported the new team leaders with advices and general decisions."""
+  description = """As a former member, I supported the new team leaders with advices in general decisions."""
 
 [[experience]]
   title = "3D Designer"
@@ -79,7 +79,7 @@ date_format = "Jan 2006"
   location = "Campinas, SP, Brazil"
   date_start = "2013-03-01"
   date_end = "2014-03-01"
-  description = """Support the team with manual labor while learning how the project and the team evolve through the full year cycle."""
+  description = """Support the team with manual labor while learning how the project and the team work through the full year cycle."""
 
 [[experience]]
   title = "Mechatronics Intern (R&D Team)"

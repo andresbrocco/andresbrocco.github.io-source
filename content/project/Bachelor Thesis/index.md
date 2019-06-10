@@ -15,7 +15,7 @@ date : 2019-02-27T00:00:00
 summary : "Acoustic Model of a Steel Tongue Drum"
 
 # Tags: can be used for filtering projects.
-tags : ["Acoustic", "Modes of Vibration", "Musical Instrument", "Modal Simulation"]
+tags : ["Acoustics", "Modes of Vibration", "Musical Instrument", "Modal Simulation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""

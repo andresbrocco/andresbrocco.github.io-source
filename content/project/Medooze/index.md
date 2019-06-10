@@ -15,7 +15,7 @@ date : 2019-02-27T00:00:00
 summary : "Led Installation using a music reactive algorithm"
 
 # Tags: can be used for filtering projects.
-tags : ["Audio Analysis", "Art Installation", "Pure Data", "Raspberry Pi", "Led Strip"]
+tags : ["Audio Analysis", "Art Installation", "Pure Data", "Raspberry Pi", "Led Strip", "Audio Visual", "Music Information Retrieval"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""

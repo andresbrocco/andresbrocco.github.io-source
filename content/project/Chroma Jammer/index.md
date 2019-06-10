@@ -15,7 +15,7 @@ date : 2019-02-27T00:00:00
 summary : "Music visualization tool to assist the learning process."
 
 # Tags: can be used for filtering projects.
-tags : ["Music Visualization", "Signal Processing", "Audio Analysis", "Feature Extraction", "Pure Data", "Real Time", "Synesthesia"]
+tags : ["Audio Visual", "Music Visualization", "Signal Processing", "Audio Analysis", "Feature Extraction", "Pure Data", "Real Time", "Music Information Retrieval"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""

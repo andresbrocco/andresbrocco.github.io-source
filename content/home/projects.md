@@ -26,12 +26,24 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Audio Visual"
+    tag = "Audio Visual"
+    
+  [[content.filter_button]]
+    name = "Pure Data"
+    tag = "Pure Data"
+    
+  [[content.filter_button]]
+    name = "Java"
+    tag = "Java"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Formula Student-SAE"
+    tag = "Formula Student-SAE"
+    
+  [[content.filter_button]]
+    name = "Modal Simulation"
+    tag = "Modal Simulation"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

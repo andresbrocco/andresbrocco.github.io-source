@@ -15,7 +15,7 @@ date : 2019-02-27T00:00:00
 summary : "Library to preprocess the Kinect skeleton data and extract body movement features."
 
 # Tags: can be used for filtering projects.
-tags : ["Human-Computer Interface", "Multimodal Interaction", "Kinect", "Java", "Processing", "Feature Extraction"]
+tags : ["Human-Computer Interface", "Multimodal Interaction", "Kinect", "Java", "Processing", "Audio Visual", "Feature Extraction"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""

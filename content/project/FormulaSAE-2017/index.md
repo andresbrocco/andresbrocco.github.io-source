@@ -12,10 +12,10 @@ title : "Formula Student/SAE - 2017"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements during season 2017"
+summary : "Advisor Member"
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["Formula Student-SAE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -56,7 +56,7 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
+As a former member, I supported the new team leaders with advices in general decisions.
 
 <img src="team.jpg" alt="2017 Team">
 

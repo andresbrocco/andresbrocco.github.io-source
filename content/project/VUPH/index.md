@@ -12,10 +12,10 @@ title : "VUPH"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements of the project?"
+summary : "Prototype of a Hybrid Propulsion Urban Vehicle - a leaning electrical trycicle."
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["CAD", "Prototype", "PTC-Creo"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -56,6 +56,4 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
-
-
+In this project, I designed the mechanical parts of an innovative vehicle. The concept of the prototype is a Hybrid Propulsion Urban Individual Vehicle. This was a confidential design, therefore I can't give much information about it.

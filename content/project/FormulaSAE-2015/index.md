@@ -12,10 +12,10 @@ title : "Formula Student/SAE - 2015"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements during season 2015"
+summary : "Vehicle Dynamics Leader"
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["Vehicle Dynamics", "Formula Student-SAE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -56,7 +56,7 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
+In the third year working on the Formula Student Team, I managed the interaction between the divisions of suspension, steering, brakes and aerodynamics, from the design phase to the manufacturing and testing phases.
 
 {{< youtube fJvhUmk1ZYo >}}
 

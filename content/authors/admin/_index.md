@@ -1,6 +1,6 @@
 ---
 # Display name
-name: André Sbrocco Figueiredo (IN CONSTRUCTION)
+name: André Sbrocco Figueiredo
 
 # Username (this should match the folder name)
 authors:
@@ -68,8 +68,4 @@ email: ""
 #- Visitors
 ---
 
-(IN CONSTRUCTION)
-
-André Sbrocco Figueiredo is a recently graduated Mechanical Engineer, looking for research oportunities to embrace. His interests range from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Machine Learning Techniques. He currently contributes voluntarily at the Interdisciplinary Nucleus of Sound Studies (NICS) at the University of Campinas, developing tools to enable researches on new multimodal interfaces.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. Alt
+André Sbrocco Figueiredo is a recently graduated Mechanical Engineer, looking for research oportunities to embrace. His interests range from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Machine Learning Techniques. He currently contributes voluntarily at the Interdisciplinary Nucleus of Sound Studies <a href="https://www.nics.unicamp.br/">NICS</a> at the University of Campinas, developing tools to enable researches on new multimodal interfaces.

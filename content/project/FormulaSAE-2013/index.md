@@ -12,10 +12,10 @@ title : "Formula Student/SAE - 2013"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements during season 2013"
+summary : "Suspension Trainee"
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["Trainee", "Suspension", "Formula Student-SAE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -56,7 +56,7 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
+In my first year of participation on the Formula Student/SAE team, I was responsible for supporting the team with manual labor while learning how the project and the team work through the full year cycle.
 
 <img src="f2013.jpg" alt="F2013 at Formula SAE Brasil">
 
