@@ -23,7 +23,7 @@ bio: My research interests range from Music and Art to Engineering and Artificia
 interests:
 - Music Information Retreival and Visualization
 - Multimodal Interfaces for Art Performances
-- Vechicle Dynamics
+- Vehicle Dynamics
 - Apply Machine Learning Techniques to all above
 
 education:
