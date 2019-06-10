@@ -64,7 +64,7 @@ The main features implemented in the library available on my <a href="https://gi
 
 - Interface with KinectV2
 - Smooth skeleton
-- Calibrate for the floor position
+- Calibrate for the floor position and room size
 - Extract body features
 - Send features through network via OSC
 

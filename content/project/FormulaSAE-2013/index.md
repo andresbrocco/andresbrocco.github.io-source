@@ -15,7 +15,7 @@ date : 2019-02-27T00:00:00
 summary : "Suspension Trainee"
 
 # Tags: can be used for filtering projects.
-tags : ["Trainee", "Suspension", "Formula Student-SAE"]
+tags : ["Suspension", "Formula Student-SAE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
