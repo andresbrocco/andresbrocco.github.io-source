@@ -12,10 +12,10 @@ title : "Kinect Skeleton library for Processing"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements of the project?"
+summary : "Library to preprocess the Kinect skeleton data and extract body movement features."
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["Human-Computer Interface", "Multimodal Interaction", "Kinect", "Java", "Processing", "Feature Extraction"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -42,7 +42,7 @@ url_code : ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 image:
   # Caption (optional)
-  caption : ""
+  caption : "Kinect Skeleton View"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -56,6 +56,18 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
+(change the featured image to the print of the skeleton view)
 
+The Group 'Perception, Action, and Interaction' at <a href="https://www.nics.unicamp.br/">NICS</a> explores the interaction between humans and digital media; 'Perception' stands for audio analysis, psychoacoustics and visual cognition; 'Action' stands for designing sound and visual arts; 'Interaction' stands for how humans interfaces with the digital environment. One ongoing research example is the sonification of human body movement with application purposes in music therapy. 
 
+One of the devices used by the laboratory to sense the body movements is the <a href="https://developer.microsoft.com/en-us/windows/kinect">Microsoft Kinect</a>. Therefore, some projects rely on a robust tool to preprocess the incoming data and extract body movement features. My role is to develop that tool and make it available as an user friendly software for people with low level of knowledge in software development.
+
+The main features implemented in the library available on my <a href="https://github.com/andresbrocco/Processing_KinectV2_SkeletonTools" >github</a> are: 
+
+- Interface with KinectV2
+- Smooth skeleton
+- Calibrate for the floor position
+- Extract body features
+- Send features through network via OSC
+
+The video below is a brief demonstration of the library and its features.

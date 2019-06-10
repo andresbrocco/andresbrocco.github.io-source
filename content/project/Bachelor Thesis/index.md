@@ -12,10 +12,10 @@ title : "Bachelor Thesis"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements of the project?"
+summary : "Acoustic Model of a Steel Tongue Drum"
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["Acoustic", "Modes of Vibration", "Musical Instrument", "Modal Simulation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -29,7 +29,7 @@ external_link : ""
 slides : ""
 
 # Links (optional).
-url_pdf : ""
+url_pdf : "/files/Bachelor_Thesis.pdf"
 url_slides : ""
 url_video : ""
 url_code : ""
@@ -42,7 +42,7 @@ url_code : ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 image:
   # Caption (optional)
-  caption : ""
+  caption : "Modal Simulation of the Steel Tongue Drum"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -56,6 +56,12 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
+The Steel Tongue Drum is a recently invented musical instrument that consists of a curved and cutted steel plate, shown at the image below.
 
+<img src="Steel_Tongue_Drum.png" alt="Steel Tongue Drum" style="width:40%">
 
+The instrument is mainly handcrafted, so by the time of this research there wasn't any study on its acoustic properties. For this reason, the idea of my bachelor thesis was to propose a scientific approach on designing this instrument.
+
+The first step was to understand which mechanical characteristics determines the acoustic response. After some experiments, I have found that the interaction with the fluid is negligible, and the only relevant characteristics were the geometry and material of the instrument. 
+
+Therefore, the frequencies of the instruments notes can be determined by a simple modal analysis. The cover image of this page shows the displacement of one of the instruments vibration modes. You can take a look at the full report (in portuguese) at the "PDF" link.

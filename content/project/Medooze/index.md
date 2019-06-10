@@ -12,10 +12,10 @@ title : "Medooze"
 date : 2019-02-27T00:00:00
 
 # Project summary to display on homepage.
-summary : "Responsibilities and achievements of the project?"
+summary : "Led Installation using a music reactive algorithm"
 
 # Tags: can be used for filtering projects.
-tags : ["trainee", "freshman", "suspension"]
+tags : ["Audio Analysis", "Art Installation", "Pure Data", "Raspberry Pi", "Led Strip"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
@@ -56,6 +56,13 @@ image:
 author : "admin"
 ---
 
-In my freshman year, I engaged at my University's Formula Student/SAE team. I was ....
+Medooze is a personal project developed by me and Gabriela Bittencourt, consisting of a smart lighting system. The algorithm developed by us analyses the music in real time to create synesthetic visual effects.
 
+The installation was presented in a music festival: the audio from the DJ mixer was captured by an audio interface, and processed in a Pure Data patch. This patch simulated a fluid that was reacting to several audio features in real time.
 
+The fluid positions were then mapped to a color palette, forming visual streams in a wave-like motion. Each particle of the fluid was then mapped to a corresponding Led in a strip. This information was sent through the network to a Raspberry Pi, which controlled 12 Led Strips.
+
+The total of 60m of Led Strips were placed above the dance floor, streaming out from the DJ cabine. You can see the infrastructure in the pictures below.
+
+<img src="tenda_roxa.JPG" alt="dance floor" style="width:80%">
+<img src="tenda_branca.png" alt="dance floor again" style="width:80%">
