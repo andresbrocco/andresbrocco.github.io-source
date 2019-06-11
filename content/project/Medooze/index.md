@@ -62,7 +62,7 @@ The installation was presented in a music festival: the audio from the DJ mixer 
 
 The fluid positions were then mapped to a color palette, forming visual streams in a wave-like motion. Each particle of the fluid was then mapped to a corresponding Led in a strip. This information was sent through the network to a Raspberry Pi, which controlled 12 Led Strips.
 
-<video width="320" height="240" controls>
+<video width="505" height="364" controls>
   <source src="/project/medooze/Medooze_Demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 

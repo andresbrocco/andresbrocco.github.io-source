@@ -66,4 +66,7 @@ As an amateur musician, I've always wanted to improvise on the guitar, but strug
 
 I have made a video presenting the patch and showing it in action! 
 
-{{< youtube rzr-McEmUEI>}}
+<video width="320" height="240" controls>
+  <source src="/project/chroma-jammer/ChromaJammer_Demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video> 
