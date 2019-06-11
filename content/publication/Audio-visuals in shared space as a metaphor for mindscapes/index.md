@@ -32,7 +32,7 @@ projects = ["Audiovisual in shared space as a metaphor for mindscapes"]
 slides = ""
 
 # Tags (optional).
-tags = ["Generative Art", "Audio-Visual Composition", "Networked Performance", "Collaborative Creation"]
+tags = ["Generative Art", "Audio-Visual", "Networked Performance", "Collaborative Creation"]
 
 # Links (optional).
 url_pdf = "/content/publication/Audio-visuals in shared space as a metaphor for mindscapes.pdf"

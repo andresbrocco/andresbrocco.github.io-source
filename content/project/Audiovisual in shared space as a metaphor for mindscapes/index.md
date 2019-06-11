@@ -15,7 +15,7 @@ date : 2019-02-27T00:00:00
 summary : "Prototype of Interactive art installation (P.A.I. group at the NICS laboratory)."
 
 # Tags: can be used for filtering projects.
-tags : ["Human-Computer Interface", "Multimodal Interaction", "Kinect", "Java", "Processing", "Audio Visual", "Feature Extraction", "Art Installation", "Real time", "Generative Art", "Audio-Visual Composition", "Networked Performance", "Collaborative Creation"]
+tags : ["Human-Computer Interface", "Multimodal Interaction", "Kinect", "Java", "Processing", "Audio-Visual", "Feature Extraction", "Art Installation", "Real time", "Generative Art", "Networked Performance", "Collaborative Creation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link : ""
