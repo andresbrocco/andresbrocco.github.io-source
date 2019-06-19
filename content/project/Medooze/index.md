@@ -62,13 +62,14 @@ The installation was presented in a music festival: the audio from the DJ mixer 
 
 The fluid positions were then mapped to a color palette, forming visual streams in a wave-like motion. Each particle of the fluid was then mapped to a corresponding Led in a strip. This information was sent through the network to a Raspberry Pi, which controlled 12 Led Strips.
 
+
 <video width="505" height="364" controls>
   <source src="/project/medooze/Medooze_Demo.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 (Music used in the demo video: So Let's Begin - Kognitif)
 
-The total of 60m of Led Strips were placed above the dance floor, streaming out from the DJ cabine. You can see the infrastructure in the pictures below.
+A total of 60m of Led Strips were placed above the dance floor, streaming out from the DJ cabine, represented as an hexagon in the video. You can see the infrastructure in the pictures below.
 
 <img src="tenda_branca.png" alt="dance floor again" style="width:80%">
 <img src="tenda_roxa.JPG" alt="dance floor" style="width:80%">
