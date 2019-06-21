@@ -68,4 +68,4 @@ email: ""
 #- Visitors
 ---
 
-André Sbrocco Figueiredo is a recently graduated Mechanical Engineer, looking for research oportunities to embrace. His interests range from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Machine Learning Techniques. He currently contributes voluntarily at the Interdisciplinary Nucleus of Sound Studies <a href="https://www.nics.unicamp.br/">NICS</a> at the University of Campinas, developing tools that enable research on multimodal interfaces.
+I'm a recently graduated Mechanical Engineer, looking for research oportunities to embrace. My interests range from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Machine Learning Techniques. I currently contribute voluntarily at the Interdisciplinary Nucleus of Sound Studies <a href="https://www.nics.unicamp.br/">NICS</a> at the University of Campinas, developing tools that enable research on multimodal interfaces.
