@@ -18,7 +18,7 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "Portuguese: Native. English: Advanced. Italian: Basic."
+  description = "Portuguese: Native. English: Advanced. Italian: Intermediate. French: Basic"
 
 [[feature]]
   icon = "code"
@@ -36,12 +36,12 @@ subtitle = ""
   icon = "cubes"
   icon_pack = "fas"
   name = "CAD - Softwares"
-  description = "PTC Creo Parametric, SolidWorks"
+  description = "Creo Parametric, SolidWorks, AutoCAD"
   
 [[feature]]
   icon = "drafting-compass"
   icon_pack = "fas"
   name = "CAE - Softwares"
-  description = "PTC Creo Simulate, Ansys Workbench, Altair Inspire"
+  description = "Creo Simulate, Ansys Workbench, Altair Inspire"
 
 +++
