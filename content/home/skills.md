@@ -18,13 +18,13 @@ subtitle = ""
   icon = "language"
   icon_pack = "fas"
   name = "Languages"
-  description = "Portuguese: Native. English: Advanced. Italian: Intermediate. French: Basic"
+  description = "Portuguese: Native. English: Advanced. Italian: Intermediate. French: Intermediate"
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming Languages"
-  description = "Python, Java, Matlab/Simulink, C/C++, Pure Data, Processing"
+  name = "Programming"
+  description = "HTML, CSS, React.js, JavaScript, Python, Java, Node.js, Matlab/Simulink, C/C++, Git, Pure Data"
   
 [[feature]]
   icon = "microchip"

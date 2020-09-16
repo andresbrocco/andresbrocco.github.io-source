@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Coursera - University of Minnesota"
+  organization_url = "https://www.coursera.org/minnesota"
+  title = "Agile Software Development"
+  url = "https://www.coursera.org/learn/agile-software-development"
+  certificate_url = ""
+  date_start = "2020-08-25"
+  date_end = "2020-09-05"
+  description = "What is Agile? When to use Agile? Why is it better in some situations? Common agile frameworks: Scrum and XP (eXtreme Programming)."
+
+[[item]]
   organization = "Coursera - DeepLearning.ai"
   organization_url = "https://www.coursera.org/deeplearning-ai"
   title = "Neural Networks and Deep Learning (4 weeks)"
@@ -38,33 +48,33 @@ date_format = "Jan 2006"
   date_end = "2018-10-24"
   description = """Formulated and implemented basic Machine Learning Techniques in Matlab. Supervised algorithms: Linear regression, Logistic Regression, Multi-Layer Perceptron Neural Network, Support Vector Machines., Unsupervised Algorithms: k-means, PCA. Large Scale Machine Learning basics. <a href="https://github.com/andresbrocco/MachineLearning-Stanford">Repository with assignments</a>."""
 
-[[item]]
-  organization = "MSC Software"
-  organization_url = "https://www.mscsoftware.com/"
-  title = "ADM701 - Complete Multibody Dynamics Analysis with Adams (40h)"
-  url = "https://www.mscsoftware.com/session/adm701-complete-multibody-dynamics-analysis-adams"
-  certificate_url = "files/ADM701_MSC_AdamsCertificate.pdf"
-  date_start = "2016-07-18"
-  date_end = "2016-07-22"
-  description = "Theory and practice of basic multibody simulation concepts: constraints, actuators, connections, contacts, collisions, measurements and design studies for static, transient and linear simulations."
+#[[item]]
+#  organization = "MSC Software"
+#  organization_url = "https://www.mscsoftware.com/"
+#  title = "ADM701 - Complete Multibody Dynamics Analysis with Adams (40h)"
+#  url = "https://www.mscsoftware.com/session/adm701-complete-multibody-dynamics-analysis-adams"
+#  certificate_url = "files/ADM701_MSC_AdamsCertificate.pdf"
+#  date_start = "2016-07-18"
+#  date_end = "2016-07-22"
+#  description = "Theory and practice of basic multibody simulation concepts: constraints, actuators, connections, contacts, collisions, measurements and design studies for static, transient and linear simulations."
 
-[[item]]
-  organization = "Optimum G"
-  organization_url = "http://www.optimumg.com/"
-  title = "Applied Vehicle Dynamics OptimumG Seminar (32h)"
-  url = "http://www.optimumg.com/training/vehicle-dynamics-seminars/"
-  certificate_url = "files/OptimumG_SeminarCertificate.pdf"
-  date_start = "2014-11-04"
-  date_end = "2014-11-07"
-  description = """Ministered by the acclaimed international lecturer <a href="https://www.linkedin.com/in/claude-rouelle-1810409">Claude Rouelle</a>, the course ranges from vehicle dynamics fundamentals to state of the art techniques in Formula-1. Topics covered: tires, aerodynamics, kinematics, steady state and transient weight transfers, data acquisition, car design, tuning modification and chassis setup."""
+#[[item]]
+#  organization = "Optimum G"
+#  organization_url = "http://www.optimumg.com/"
+#  title = "Applied Vehicle Dynamics OptimumG Seminar (32h)"
+#  url = "http://www.optimumg.com/training/vehicle-dynamics-seminars/"
+#  certificate_url = "files/OptimumG_SeminarCertificate.pdf"
+#  date_start = "2014-11-04"
+#  date_end = "2014-11-07"
+#  description = """Ministered by the acclaimed international lecturer <a href="https://www.linkedin.com/in/claude-rouelle-1810409">Claude Rouelle</a>, the course ranges from vehicle dynamics fundamentals to state of the art techniques in Formula-1. Topics covered: tires, aerodynamics, kinematics, steady state and transient weight transfers, data acquisition, car design, tuning modification and chassis setup."""
 
-[[item]]
-  organization = "Mahle"
-  organization_url = "https://www.mahle.com/"
-  title = "Corporative Education Program (24h)"
-  url = ""
-  certificate_url = "files/MahleCertificate.pdf"
-  date_start = "2014-07-21"
-  date_end = "2014-07-23"
-  description = "This course focus on expanding the competences over general corporate environments, building critical skills through the understanding of the business needs."
+#[[item]]
+#  organization = "Mahle"
+#  organization_url = "https://www.mahle.com/"
+#  title = "Corporative Education Program (24h)"
+#  url = ""
+#  certificate_url = "files/MahleCertificate.pdf"
+#  date_start = "2014-07-21"
+#  date_end = "2014-07-23"
+#  description = "This course focus on expanding the competences over general corporate environments, building critical skills through the understanding of the business needs."
 +++

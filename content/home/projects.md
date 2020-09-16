@@ -30,13 +30,17 @@ subtitle = ""
     tag = "Audio Visual"
     
   [[content.filter_button]]
-    name = "Pure Data"
-    tag = "Pure Data"
-    
+    name = "Web Dev"
+    tag = "Web Development"
+  
   [[content.filter_button]]
     name = "Java"
     tag = "Java"
   
+  [[content.filter_button]]
+    name = "Pure Data"
+    tag = "Pure Data"
+    
   [[content.filter_button]]
     name = "Formula Student-SAE"
     tag = "Formula Student-SAE"
@@ -85,4 +89,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-

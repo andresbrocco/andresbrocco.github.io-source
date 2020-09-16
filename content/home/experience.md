@@ -19,26 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Cultural Experience across Europe"
+  company = ""
+  company_url = ""
+  location = "Italy, Netherlands, France, United Kingdom"
+  date_start = "2019-07-01"
+  date_end = "2020-04-01"
+  description = """Took some time to learn other languages and experience other cultures. In this period worked as gardener, as catering assistant and even as dog keeper."""
+
+[[experience]]
   title = "Software Developer"
   company = "NICS - Interdisciplinary Nucleus of Sound Studies"
   company_url = "https://www.nics.unicamp.br/"
   location = "Campinas, SP, Brazil"
   date_start = "2019-03-01"
-  date_end = ""
-  description = """As a member of the Group 'Perception, Action, and Interaction', I am developing libraries to support research on multimodal systems and interfaces. The subject of one research is the sonification of human body movement with application purposes in music therapy. Therefore, I've been developing a <a href="/project/kinect-skeleton-library-for-processing/"> library</a> to preprocess the Kinect skeleton data and extract body movement features."""
-  
-[[experience]]
-  title = "Advisor Member"
-  company = "Formula Student/SAE Team"
-  company_url = "http://www.fsaeunicamp.com/"
-  location = "Campinas, SP, Brazil"
-  date_start = "2017-03-01"
-  date_end = "2018-03-01"
-  description = """As a former member, I supported the new team leaders with advices in general decisions."""
+  date_end = "2019-09-01"
+  description = """Developed libraries in Java to support research on multimodal systems and interfaces using Microsoft Kinect. The subject of one research was the sonification of human body movement with application purposes in music therapy."""
 
 [[experience]]
   title = "3D Designer"
-  company = "VUPH"
+  company = "VUPH - Hybrid Propulsionn Urban Vehicle"
   company_url = ""
   location = "Campinas, SP, Brazil"
   date_start = "2017-05-31"
@@ -46,8 +46,8 @@ date_format = "Jan 2006"
   description = """Designed a prototype of a Hybrid Propulsion Urban Vehicle"""
 
 [[experience]]
-  title = "Intern"
-  company = "InfoAxis"
+  title = "Mechanical Engineering Intern"
+  company = "InfoAxis Solutions - PTC"
   company_url = "https://www.infoaxis.com.br/"
   location = "Campinas, SP, Brazil"
   date_start = "2017-02-01"
@@ -55,35 +55,17 @@ date_format = "Jan 2006"
   description = """ Supported clients with the usage of the CAD/CAE/CAM Softwares."""
   
 [[experience]]
-  title = "Vehicle Dynamics Leader"
-  company = "Formula Student/SAE Team"
-  company_url = "http://www.fsaeunicamp.com/"
-  location = "Campinas, SP, Brazil"
-  date_start = "2015-03-01"
-  date_end = "2017-03-01"
-  description = """Manage the interaction between the divisions of suspension, steering, brakes and aerodynamics, from the design phase to the manufacturing and testing phases."""
-
-[[experience]]
-  title = "Suspension Leader"
-  company = "Formula Student/SAE Team"
-  company_url = "http://www.fsaeunicamp.com/"
-  location = "Campinas, SP, Brazil"
-  date_start = "2014-03-01"
-  date_end = "2015-03-01"
-  description = """Lead the suspension division, keeping the members motivated and connected with the project. Manage team resources through the design, manufacturing and testing phases."""
-
-[[experience]]
-  title = "Suspension Trainee"
-  company = "Formula Student/SAE Team"
+  title = "Vehicle Dynamics Engineer"
+  company = "Formula Student/SAE - Racing Team"
   company_url = "http://www.fsaeunicamp.com/"
   location = "Campinas, SP, Brazil"
   date_start = "2013-03-01"
-  date_end = "2014-03-01"
-  description = """Support the team with manual labor while learning how the project and the team work through the full year cycle."""
+  date_end = "2017-12-01"
+  description = """The 40-member team designed and builded a "\textit{mini-Formula 1}" car that have won the Brazilian competition and participated in 2 international competitions in the USA, presenting the project to honorable names from the automotive industry."""
 
 [[experience]]
   title = "Mechatronics Intern (R&D Team)"
-  company = "CEB - Biomedical Engineering Center"
+  company = "CEB - Biomedical Engineering Center - UNICAMP"
   company_url = "http://www.ceb.unicamp.br/"
   location = "Campinas, SP, Brazil"
   date_start = "2012-02-01"
