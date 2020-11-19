@@ -64,4 +64,4 @@ The instrument is mainly handcrafted, so by the time of this research there wasn
 
 The first step was to understand which mechanical characteristics determines the acoustic response. After some experiments, I have found that the interaction with the fluid is negligible, and the only relevant characteristics were the geometry and material of the instrument. 
 
-Therefore, the frequencies of the instruments notes can be determined by a simple modal analysis. The cover image of this page shows the displacement of one of the instruments vibration modes. You can take a look at the full report (in portuguese) at the "PDF" link.
+Therefore, the frequencies of the instruments notes can be determined by a simple modal analysis. The cover image of this page shows the displacement of one of the instruments vibration modes. You can take a look at the [full report (in portuguese)](/files/Bachelor_Thesis.pdf).

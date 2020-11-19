@@ -48,15 +48,15 @@ date_format = "Jan 2006"
   date_end = "2018-10-24"
   description = """Formulated and implemented basic Machine Learning Techniques in Matlab. Supervised algorithms: Linear regression, Logistic Regression, Multi-Layer Perceptron Neural Network, Support Vector Machines., Unsupervised Algorithms: k-means, PCA. Large Scale Machine Learning basics. <a href="https://github.com/andresbrocco/MachineLearning-Stanford">Repository with assignments</a>."""
 
-#[[item]]
-#  organization = "MSC Software"
-#  organization_url = "https://www.mscsoftware.com/"
-#  title = "ADM701 - Complete Multibody Dynamics Analysis with Adams (40h)"
-#  url = "https://www.mscsoftware.com/session/adm701-complete-multibody-dynamics-analysis-adams"
-#  certificate_url = "files/ADM701_MSC_AdamsCertificate.pdf"
-#  date_start = "2016-07-18"
-#  date_end = "2016-07-22"
-#  description = "Theory and practice of basic multibody simulation concepts: constraints, actuators, connections, contacts, collisions, measurements and design studies for static, transient and linear simulations."
+[[item]]
+  organization = "MSC Software"
+  organization_url = "https://www.mscsoftware.com/"
+  title = "ADM701 - Complete Multibody Dynamics Analysis with Adams (40h)"
+  url = "https://www.mscsoftware.com/session/adm701-complete-multibody-dynamics-analysis-adams"
+  certificate_url = "files/ADM701_MSC_AdamsCertificate.pdf"
+  date_start = "2016-07-18"
+  date_end = "2016-07-22"
+  description = "Theory and practice of basic multibody simulation concepts: constraints, actuators, connections, contacts, collisions, measurements and design studies for static, transient and linear simulations."
 
 #[[item]]
 #  organization = "Optimum G"

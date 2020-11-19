@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Cultural Experience across Europe"
+  title = "Cultural Experience and Personal Projects"
   company = ""
   company_url = ""
   location = "Italy, Netherlands, France, United Kingdom"
   date_start = "2019-07-01"
-  date_end = "2020-04-01"
-  description = """Took some time to learn other languages and experience other cultures. In this period worked as gardener, as catering assistant and even as dog keeper."""
+  date_end = "2020-03-01"
+  description = """Learned new languages, met people from different cultures, worked in restaurants and hotels, while parallelly developped some personal projects."""
 
 [[experience]]
   title = "Software Developer"
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Campinas, SP, Brazil"
   date_start = "2017-02-01"
   date_end = "2017-08-01"
-  description = """ Supported clients with the usage of the CAD/CAE/CAM Softwares."""
+  description = """Supported clients with the usage of the CAD/CAE/CAM Softwares."""
   
 [[experience]]
   title = "Vehicle Dynamics Engineer"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   location = "Campinas, SP, Brazil"
   date_start = "2013-03-01"
   date_end = "2017-12-01"
-  description = """The 40-member team designed and builded a "\textit{mini-Formula 1}" car that have won the Brazilian competition and participated in 2 international competitions in the USA, presenting the project to honorable names from the automotive industry."""
+  description = """Led a 40-member team to design and build a mini-Formula 1 car that have won the Brazilian competition and participated in 2 international competitions in the USA, presenting the project to honorable names from the automotive industry."""
 
 [[experience]]
   title = "Mechatronics Intern (R&D Team)"

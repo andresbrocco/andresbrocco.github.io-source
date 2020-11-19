@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Developer
+role: Mechanical Engineer & Software Developer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: Andre is a young mechanical engineer that is currently shifting its career towards software development. He recently fell in love for the freedom that software development gives him to create.  As a knowledge addict he would love to dive into an innovative project, where his creativity could be explored.
+bio: Andre is a young mechanical engineer looking for an innovative project to embrace.
 
 #interests:
 #  - Music Information Retreival and Visualization
@@ -70,4 +70,5 @@ email: ""
 #- Visitors
 ---
 
-Andre is a young mechanical engineer that is currently shifting its career towards software development. He recently fell in love for the freedom that software development gives him to create. As a knowledge addict he would love to dive into an innovative project, where his creativity could be explored. His interests also ranges from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Signal Processing and Data Science techniques.
+<!-- Andre is a young mechanical engineer that is currently shifting its career towards software development. He recently fell in love for the freedom that software development gives him to create. As a knowledge addict he would love to dive into an innovative project, where his creativity could be explored. His interests also ranges from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Signal Processing and Data Science techniques. -->
+Andre is a young mechanical engineer knowledge-holic looking for an innovative project to dive into, where his creativity can be explored. His interests ranges from Acoustics and Music Information Retreival to the development of new Multimodal Interfaces using Signal Processing and Data Science techniques.
