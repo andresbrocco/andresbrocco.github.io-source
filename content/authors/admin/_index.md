@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Mechanical Engineer & Software Developer
+role: Engineer & Software Developer
 
 # Organizations/Affiliations
 organizations:
