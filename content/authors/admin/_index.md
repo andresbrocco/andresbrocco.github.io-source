@@ -28,6 +28,9 @@ bio: Andre is a young mechanical engineer looking for an innovative project to e
 
 education:
   courses:
+    - course: M2 in Software Architecture
+      institution: ESGI Paris - School of Computer Engineering
+      year: 2022
     - course: M1 in Mechanical Engineering
       institution: University of Campinas
       year: 2018
@@ -71,10 +74,10 @@ email: ""
 ---
 
 <!-- Andre is a young mechanical engineer that is currently shifting its career towards software development. He recently fell in love for the freedom that software development gives him to create. As a knowledge addict he would love to dive into an innovative project, where his creativity could be explored. His interests also ranges from Music Information Retreival and Visualization to the development of new Multimodal Interfaces using Signal Processing and Data Science techniques. -->
-Curious, reactive, autodidact, I'm an engineer with competences in web
-development. I'm currently looking for an internship in the domains related to
-web platform and data science. If you think I could be a good fit in your team
-don't hesitate to contact me.
+Curious, reactive, autodidact, versatile, I'm an engineer with competences in
+web development. I'm currently looking for an internship in the domains related
+to web development and data science. If you think I could be a good fit in your
+team don't hesitate to contact me.
 
 <!-- Andre is a young mechanical engineer knowledge-holic -->
 <!-- looking for an innovative project to dive into, where his creativity can be -->
